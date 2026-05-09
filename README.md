@@ -103,7 +103,7 @@ http://localhost:8080
 
 ## 👨‍💻 Author
 
-KUMETHA Adi Keshava
+Kumetha AdiKeshava
 
   
 
