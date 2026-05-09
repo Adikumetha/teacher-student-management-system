@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🎓 TEACHER & STUDENT MANAGEMENT SYSTEM
 
 A full-stack web application designed to manage teachers, students, and academic records in a structured and organized manner.
@@ -137,3 +138,7 @@ Student APIs
 Masthan Sharif Shaik
 
 GitHub: https://github.com/MasthanSharifShaik
+=======
+# teacher-student-management-system
+Spring Boot CRUD application using REST APIs with HTML, CSS, JavaScript frontend and in-memory data storage.
+>>>>>>> 2f153f36418c8ab53477eaab8eeaafcd0ab08a14
