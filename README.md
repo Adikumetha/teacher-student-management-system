@@ -1,14 +1,11 @@
-Teacher Student Management System
-
-A Spring Boot CRUD application for managing Students and Teachers using REST APIs with a simple HTML, CSS, and JavaScript frontend.
-
-<img width="1920" height="948" alt="StudentProject img" src="https://github.com/user-attachments/assets/5b570a77-fcfd-494f-af70-505e1000aff2" />
 
 # Teacher Student Management System
 
 A Spring Boot CRUD application for managing Students and Teachers using REST APIs with a simple HTML, CSS, and JavaScript frontend.
 
 ## &#x20;
+
+<img width="1920" height="948" alt="StudentProject img" src="https://github.com/user-attachments/assets/5b570a77-fcfd-494f-af70-505e1000aff2" />
 
 ## 🚀 Features
 
